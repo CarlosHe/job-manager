@@ -1,0 +1,9 @@
+{
+	"name": "job-manager",
+	"description": "Job manager for Delphi",
+	"version": "1.0.0",
+	"homepage": "https://github.com/CarlosHe/job-manager",
+	"mainsrc": "./src/",
+	"projects": [],
+	"dependencies": {}
+}
